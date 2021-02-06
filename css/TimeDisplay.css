@@ -1,0 +1,19 @@
+/*TimeDisplay.css*/
+
+.ClockHeading{
+	display: block;
+	font-weight: bolder;
+	text-align: center;
+	width: 220px;
+	padding: 10px;
+}
+.DigitalTime{
+	display: block;
+	font-weight: bold;
+	text-align: center;
+	width: 220px;
+	padding: 10px;
+}
+.AnalogTime{
+	padding: 10px;
+}
