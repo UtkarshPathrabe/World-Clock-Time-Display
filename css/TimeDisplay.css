@@ -1,19 +1,23 @@
 /*TimeDisplay.css*/
 
-.ClockHeading{
+.site-wrapper {
+	background: #018ded url(https://unsplash.it/1500/1000?image=881&blur=5);
+	background-size: cover;
+}
+.ClockHeading {
 	display: block;
 	font-weight: bolder;
 	text-align: center;
 	width: 220px;
 	padding: 10px;
 }
-.DigitalTime{
+.DigitalTime {
 	display: block;
 	font-weight: bold;
 	text-align: center;
 	width: 220px;
 	padding: 10px;
 }
-.AnalogTime{
+.AnalogTime {
 	padding: 10px;
 }
