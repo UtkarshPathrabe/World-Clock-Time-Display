@@ -3,6 +3,7 @@
 .site-wrapper {
 	background: #018ded url(https://source.unsplash.com/3MNzGlQM7qs/1500x1500);
 	background-size: cover;
+	height: 100vh;
 }
 .ClockHeading {
 	display: block;
